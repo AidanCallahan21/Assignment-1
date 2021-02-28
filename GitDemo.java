@@ -46,13 +46,11 @@ public class GitDemo {
             factorialNumber = factorialNumber * 10 + temp;
             num /= 10;
         }
-branch-b
         
         return factorialNumber;
 
         reverseNum = newNumber;
         return newNumber;
-main
     }
     
 }
